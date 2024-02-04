@@ -1,8 +1,8 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AODb.Common", "AODb.Common\AODb.Common.csproj", "{6227A9F7-5951-4E13-A470-3051C6FA5515}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AODb.Common", "AODb.Common\AODb.Common.csproj", "{6227A9F7-5951-4E13-A470-3051C6FA5515}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AODb.Data", "AODb.Data\AODb.Data.csproj", "{9DAE2EEE-F395-49C8-8676-ACBE70A490B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AODb.Data", "AODb.Data\AODb.Data.csproj", "{9DAE2EEE-F395-49C8-8676-ACBE70A490B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
